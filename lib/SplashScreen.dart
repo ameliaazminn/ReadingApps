@@ -56,7 +56,7 @@ class _SplashScreenState extends State<SplashScreen> {
                             Spacer(
                               flex: 4,
                             ),
-                            Text('adroid device abjssj'),
+                            Text('adroid device abjssj kata'),
                             Spacer(),
                           ])
                     ],
